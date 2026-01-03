@@ -73,7 +73,7 @@ img.ElementInMainContainer {
     object-fit: cover;
 }
 
-/* Парні елементи (2, 4...) опускаємо нижче */
+/* Парні елементи (2, 4...) опускаєо нижче */
 img.ElementInMainContainer:nth-child(even) {
     transform: translateY(10px);
 }
